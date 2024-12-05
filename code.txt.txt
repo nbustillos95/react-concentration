@@ -1,0 +1,8 @@
+    { id: 1, value: '/CardImages/ace.png', isFlipped: false, isMatched: false },
+    { id: 2, value: '/CardImages/ace.png', isFlipped: false, isMatched: false },
+    { id: 3, value: '/CardImages/2.png', isFlipped: false, isMatched: false },
+    { id: 4, value: '/CardImages/2.png', isFlipped: false, isMatched: false },
+    { id: 1, value: '/CardImages/3.png', isFlipped: false, isMatched: false },
+    { id: 2, value: '/CardImages/3.png', isFlipped: false, isMatched: false },
+    { id: 3, value: '/CardImages/4.png', isFlipped: false, isMatched: false },
+    { id: 4, value: '/CardImages/4.png', isFlipped: false, isMatched: false },
