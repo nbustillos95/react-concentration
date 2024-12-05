@@ -11,6 +11,10 @@ function GameBoard() {
     { id: 6, value: '/CardImages/3.png', isFlipped: false, isMatched: false },
     { id: 7, value: '/CardImages/4.png', isFlipped: false, isMatched: false },
     { id: 8, value: '/CardImages/4.png', isFlipped: false, isMatched: false },
+    { id: 9, value: '/CardImages/5.png', isFlipped: false, isMatched: false },
+    { id: 10, value: '/CardImages/5.png', isFlipped: false, isMatched: false },
+    { id: 11, value: '/CardImages/6.png', isFlipped: false, isMatched: false },
+    { id: 12, value: '/CardImages/6.png', isFlipped: false, isMatched: false },
     // Add more pairs as needed
   ];
 

@@ -1,13 +1,16 @@
 body {background-color:wheat;}
 
 .game-board {
+    width: 85%;
+    margin:auto;
+    border-radius: 40px;
     background-color:darkgreen;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
     gap: 50px;
-    padding: 10px;
+    padding: 30px;
     border: 2px solid #000;
 }
   
