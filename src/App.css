@@ -1,8 +1,10 @@
 body {background-color:wheat;}
 
 .game-board {
-    width: 85%;
-    margin:auto;
+    width: 90%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 40px;
     background-color:darkgreen;
     display: flex;
