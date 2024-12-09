@@ -10,3 +10,8 @@
     { id: 10, value: '/CardImages/5.png', isFlipped: false, isMatched: false },
     { id: 11, value: '/CardImages/6.png', isFlipped: false, isMatched: false },
     { id: 12, value: '/CardImages/6.png', isFlipped: false, isMatched: false },
+    { id: 13, value: '/CardImages/7.png', isFlipped: false, isMatched: false },
+    { id: 14, value: '/CardImages/7.png', isFlipped: false, isMatched: false },
+    { id: 15, value: '/CardImages/8.png', isFlipped: false, isMatched: false },
+    { id: 16, value: '/CardImages/8.png', isFlipped: false, isMatched: false },
+
